@@ -9,7 +9,7 @@ Combinando essas novas habilidades com minha paixão por filmes, séries e cinem
 
 
 ## Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-vieira-52112b20b/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmanuelVieiira/emanuelvieiira) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcSMTtQKPJNWzmswTVLCxtcPVrtsCfGrbdFdNtdSWLpqDnvlbbCZFfxcFrgxWnPqHJjVrglrS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-vieira-52112b20b/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcSMTtQKPJNWzmswTVLCxtcPVrtsCfGrbdFdNtdSWLpqDnvlbbCZFfxcFrgxWnPqHJjVrglrS)
 
 
 
