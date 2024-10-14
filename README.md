@@ -13,8 +13,5 @@ Combinando essas novas habilidades com minha paixão por filmes, séries e cinem
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelVieiira&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanuelVieiira&show_icons=true&count_private=true)
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanuelVieiira&show_icons=true&count_private=true&theme=dark)
 
