@@ -30,7 +30,7 @@ Combinando essas novas habilidades com minha paixão por filmes, séries e cinem
 **Back-end**  
 - 🟢🟢🟢⚪⚪ C# (Intermediário) - .NET Core, ASP.NET
 - 🟢⚪⚪⚪⚪ Python (Básico) - Scripting, Automação
-- 🟢🟢⚪⚪⚪ PHP (Intermediário) - Laravel, WordPress
+- 🟢🟢⚪⚪⚪ PHP (Intermediário) - Estudando Laravel
 
 ## 🌐 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-vieira-52112b20b/)
