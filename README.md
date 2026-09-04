@@ -1,6 +1,6 @@
 # Olá, eu sou o Emanuel 👋
 
-Estudante de Ciência da Computação, apaixonado por transformar ideias em código. Comecei explorando HTML e CSS por curiosidade de entender como os sites funcionavam, e hoje já transito entre front-end, back-end e dados — sempre unindo tecnologia com meu outro interesse, cinema e séries.
+Estudante de Ciência da Computação, apaixonado por transformar ideias em código. Comecei explorando HTML e CSS por curiosidade de entender como os sites funcionavam, e hoje já transito entre front-end, back-end e dados — sempre unindo tecnologia com meu outro interesse como cinema.
 
 Atualmente estou aprofundando meus estudos em **Power BI** e **MySQL Workbench**, buscando expandir minha atuação para análise e visualização de dados.
 
@@ -39,11 +39,11 @@ Atualmente estou aprofundando meus estudos em **Power BI** e **MySQL Workbench**
 
 **Dados**
 - 🟢🟢⚪⚪⚪ Power BI (Iniciante) — Dashboards e DAX básico
-- 🟢🟢🟢⚪⚪ MySQL (Básico/Intermediário) — Modelagem e consultas no Workbench
+- 🟢🟢⚪⚪⚪ MySQL (Básico/Intermediário) — Modelagem e consultas no Workbench
 
 ## 📌 Projetos em destaque
- 
-- **[advogada-Thaenna-Bruna](https://github.com/EmanuelVieiira/advogada-Thaenna-Bruna)** — Site institucional em ASP.NET Core, com deploy automático via GitHub Actions no Azure.
+
+- **[AdvogadaThaennaBruna](https://github.com/EmanuelVieiira/AdvogadaThaennaBruna)** — Site institucional em ASP.NET Core, com deploy automático via GitHub Actions no Azure.
 - **[relatorio-gerencial-vendas-power-bi](https://github.com/EmanuelVieiira/relatorio-gerencial-vendas-power-bi)** — Dashboard de vendas e lucro em Power BI (bootcamp DIO).
 - **[analise-lucro-vendas-unidades](https://github.com/EmanuelVieiira/analise-lucro-vendas-unidades)** — Análise de lucro, vendas e unidades vendidas em Power BI (bootcamp DIO).
 - **[CineSearch](https://github.com/EmanuelVieiira/CineSearch)** — App de busca de filmes consumindo API pública, com HTML, CSS e JavaScript.
